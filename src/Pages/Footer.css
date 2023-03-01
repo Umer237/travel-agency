@@ -1,58 +1,51 @@
-.Footer-Flex{
-    display: flex;
-    justify-content: space-evenly;
+.Footer-Flex {
+  display: flex;
+  justify-content: space-evenly;
+ 
+  padding: 50px 0 70px 0;
+}
+.footer-bg{
     background: #fcf1f0;
 }
-.First-Section{
-    padding-bottom: 70px;
+.Footer-Flex h5 {
+  color: #000;
+  font-weight: 400;
+  font-size: 30px;
 }
-.Footer-Flex h1{
-    color: #000;
-    font-weight: 400;
-    padding-top: 50px;
+.Footer-Flex .p-1 {
+  color: #474545;
+  font-size: 12px;
+  max-width: 210px;
+  padding-left: 32px;
+  line-height: 25px;
 }
-.Footer-Flex .p-1{
-    color: #474545;
-    font-size: 12px;
-    max-width: 210px;
-    padding-left: 32px;
-    line-height: 25px;
-}
-.Footer-Flex h2{
-    color: #000;
-    font-size: 17px;
-    font-weight: 500;
-    padding-top: 50px;
+.Footer-Flex h2 {
+  color: #000;
+  font-size: 17px;
+  font-weight: 500;
 }
 .Footer-Flex .p-2 {
-    color: #777474;
-    line-height: 25px;
-    font-size: 11px;
+  color: #777474;
+  line-height: 25px;
+  font-size: 11px;
 }
-.Footer-Icons{
-    padding-top: 50px;
- }
-.Footer-Icon-1{
-    padding: 10px;
-    border-radius: 100px;
-    color:#000 ;
-    background: white;
+.Footer-Icon-1 {
+  padding: 10px;
+  border-radius: 100px;
+  color: #000;
+  background: white;
+  margin-right: 5px;
 }
-.Footer-Icon-2{
-    padding: 10px;
-    border-radius: 100px;
-    color:#000;
-    background: white;
+.Footer-Icon-1:hover{
+    color:  #ff7524;;
 }
-.Footer-Icon-3{
-    padding: 10px;
-    border-radius: 100px;
-    color:#000;
-    background: white;
+.Footer-Icons h4 {
+  margin-bottom: 15px;
 }
-.Footer-Icon-4{
-    padding: 10px;
-    border-radius: 100px;
-    color:#000;
-    background: white;
+.Footer-End h6{
+    font-weight: 400;
+    font-size:12px;
+    color: #474545;
+    padding-left: 280px;
+    padding-bottom: 25px;
 }
