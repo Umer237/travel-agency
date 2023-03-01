@@ -44,6 +44,8 @@
 }
 .Footer-Icons h4 {
   margin-bottom: 15px;
+  font-weight: 500;
+  font-size: 17px;
 }
 .Footer-End h6{
     font-weight: 400;
