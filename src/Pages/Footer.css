@@ -1,0 +1,46 @@
+.Footer-Flex{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgb(32, 32, 32);
+}
+.First-Section{
+    padding-bottom: 70px;
+}
+.Footer-Flex h1{
+    color: #fff;
+    font-weight: 400;
+    padding-top: 50px;
+}
+.Footer-Flex p{
+    color: grey;
+    font-size: 12px;
+    max-width: 220px;
+}
+.Footer-Flex h2{
+    color: #c2756a;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+.Footer-Flex .p-2{
+    color: #dad7d7;
+}
+.Footer-Icons{
+    display: flex;
+    gap: 8px;
+    padding-top: 50px;
+ }
+.Footer-Icon-1{
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 100px;
+    color:#c2756a ;
+    background: none;
+}
+.Footer-Icon-2{
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 100px;
+    color:#c2756a;
+    background: none;
+}

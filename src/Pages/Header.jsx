@@ -1,11 +1,13 @@
 import React from "react";
 import "./Header.css";
+import {GiGrapes } from "react-icons/gi";
 
 const Header = () => {
   return (
     <>
       <div className="header-flex">
         <div className="logo">
+        <GiGrapes/>
           <h5>grapeslab</h5>
         </div>
         <nav className="navbar">
