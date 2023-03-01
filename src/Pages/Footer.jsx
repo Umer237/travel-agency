@@ -4,7 +4,7 @@ import { FaFacebookF } from "react-icons/fa";
 import { BsTwitter } from "react-icons/bs";
 import { GiGrapes } from "react-icons/gi";
 import { BsSnapchat } from "react-icons/bs";
-import { BsInstagram } from "react-icons/bs";
+
 import { AiFillYoutube } from "react-icons/ai";
 
 const Footer = () => {
