@@ -8,14 +8,14 @@ const Footer = () => {
    <>
     <div className='Footer-Flex'>
     <div className='First-Section'>
-    <h1>GYM</h1>
+    <h1>grapeslab</h1>
     <p className='p-1'>
         Sport makes our life more interesting. The number of places where one can go in for sports.   </p>
         </div>
         <div>
-        <h2>MENU</h2>
-        <p className='p-2'>About</p>
-        <p className='p-2'>Classes</p>
+        <h2>Home</h2>
+        <p className='p-2'>About us</p>
+        <p className='p-2'>Destination</p>
         <p className='p-2'>Blog</p>
         <p className='p-2'>Contact</p>
         </div>

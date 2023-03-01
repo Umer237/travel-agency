@@ -1,7 +1,7 @@
 .Footer-Flex{
     display: flex;
     justify-content: space-evenly;
-    background: rgb(32, 32, 32);
+    background: #fcf1f0;
 }
 .First-Section{
     padding-bottom: 70px;
