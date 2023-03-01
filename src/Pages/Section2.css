@@ -1,0 +1,16 @@
+.Section-2-Top-Text{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Section-2-Flex{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+}
+.Section-2-Flex img{
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+}
