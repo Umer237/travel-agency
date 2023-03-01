@@ -1,9 +1,9 @@
 import React from 'react'
 import './Section2.css'
-import img1 from './images/Paris.jpeg'
-import img2 from './images/Spain.jpeg'
-import img3 from './images/Portugal.jpeg'
-import img4 from './images/Hazrat-Ali-Tomb.jpg'
+import img1 from '../images/Paris.jpeg'
+import img2 from '../images/Spain.jpeg'
+import img3 from '../images/Portugal.jpeg'
+import img4 from '../images/Hazrat-Ali-Tomb.jpg'
 
 const Section2 = () => {
   return (
