@@ -6,6 +6,17 @@
 }
 
 .logo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo .logo-icon {
+    font-size: 30px;
+    color: #ff7524;
+}
+
+.logo h5 {
     font-size: 30px;
     color: #ff7524;
 }

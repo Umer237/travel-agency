@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <div className="header-flex">
         <div className="logo">
-        <GiGrapes/>
+        <GiGrapes className="logo-icon"/>
           <h5>grapeslab</h5>
         </div>
         <nav className="navbar">
