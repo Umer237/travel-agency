@@ -1,12 +1,12 @@
-import React from 'react'
-import Footer from '../Pages/Footer'
+import React from "react";
+import Footer from "../Pages/Footer";
 
 const Home = () => {
   return (
-<>
-<Footer/>
-</>
-  )
-}
+    <>
+      <Footer />
+    </>
+  );
+};
 
-export default Home
+export default Home;
