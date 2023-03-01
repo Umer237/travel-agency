@@ -1,55 +1,65 @@
 .Footer-Flex {
-  display: flex;
-  justify-content: space-evenly;
- 
-  padding: 50px 0 70px 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0 70px 0;
 }
-.footer-bg{
+
+.footer-bg {
     background: #fcf1f0;
 }
+
 .Footer-Flex h5 {
-  color: #000;
-  font-weight: 400;
-  font-size: 30px;
-  font-weight: 600;
-  padding-bottom: 10px;
-}
-.Footer-Flex .p-1 {
-  color: #474545;
-  font-size: 12px;
-  max-width: 210px;
-  padding-left: 32px;
-  line-height: 25px;
-}
-.Footer-Flex h2 {
-  color: #000;
-  font-size: 17px;
-  font-weight: 500;
-  padding-bottom: 10px;
-}
-.Footer-Flex .p-2 {
-  color: #777474;
-  line-height: 25px;
-  font-size: 11px;
-}
-.Footer-Icon-1 {
-  padding: 10px;
-  border-radius: 100px;
-  color: #000;
-  background: white;
-  margin-right: 5px;
-}
-.Footer-Icon-1:hover{
-    color:  #ff7524;;
-}
-.Footer-Icons h4 {
-  margin-bottom: 15px;
-  font-weight: 500;
-  font-size: 17px;
-}
-.Footer-End h6{
+    color: #000;
     font-weight: 400;
-    font-size:12px;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.Footer-Flex .p-1 {
+    color: #474545;
+    font-size: 12px;
+    max-width: 210px;
+    padding-left: 32px;
+    line-height: 25px;
+}
+
+.Footer-Flex h2 {
+    color: #000;
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.Footer-Flex .p-2 {
+    color: #777474;
+    line-height: 25px;
+    font-size: 11px;
+}
+
+.Footer-Icon-1 {
+    padding: 10px;
+    border-radius: 100px;
+    color: #000;
+    background: white;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.Footer-Icon-1:hover {
+    color: #ff7524;
+    ;
+}
+
+.Footer-Icons h4 {
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.Footer-End h6 {
+    font-weight: 400;
+    font-size: 12px;
     color: #474545;
     padding-left: 280px;
     padding-bottom: 25px;
