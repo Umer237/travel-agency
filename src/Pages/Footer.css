@@ -7,40 +7,40 @@
     padding-bottom: 70px;
 }
 .Footer-Flex h1{
-    color: #fff;
+    color: #000;
     font-weight: 400;
     padding-top: 50px;
 }
-.Footer-Flex p{
-    color: grey;
+.Footer-Flex .p-1{
+    color: #474545;
     font-size: 12px;
-    max-width: 220px;
+    max-width: 210px;
+    padding-left: 32px;
+    line-height: 25px;
 }
 .Footer-Flex h2{
-    color: #c2756a;
-    font-size: 18px;
+    color: #000;
+    font-size: 17px;
     font-weight: 500;
     padding-top: 50px;
 }
-.Footer-Flex .p-2{
-    color: #dad7d7;
+.Footer-Flex .p-2 {
+    color: #777474;
+    line-height: 25px;
+    font-size: 11px;
 }
 .Footer-Icons{
-    display: flex;
-    gap: 8px;
     padding-top: 50px;
  }
 .Footer-Icon-1{
-    border: 1px solid grey;
     padding: 10px;
     border-radius: 100px;
-    color:#c2756a ;
-    background: none;
+    color:#000 ;
+    background: white;
 }
 .Footer-Icon-2{
-    border: 1px solid grey;
     padding: 10px;
     border-radius: 100px;
-    color:#c2756a;
-    background: none;
+    color:#000;
+    background: white;
 }

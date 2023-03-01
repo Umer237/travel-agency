@@ -2,15 +2,15 @@ import React from 'react'
 import './Footer.css'
 import { FaFacebookF } from "react-icons/fa";
 import {BsTwitter } from "react-icons/bs";
+import {GiGrapes } from "react-icons/gi";
 
 const Footer = () => {
   return (
    <>
     <div className='Footer-Flex'>
     <div className='First-Section'>
-    <h1>grapeslab</h1>
-    <p className='p-1'>
-        Sport makes our life more interesting. The number of places where one can go in for sports.   </p>
+    <h1><GiGrapes/>grapeslab</h1>
+    <p className='p-1'>Throughout our lives. people have to thought that because we keep do we are focused on travel.</p>
         </div>
         <div>
         <h2>Home</h2>
@@ -27,7 +27,7 @@ const Footer = () => {
            <p className='p-2'>Blog</p>      
         </div>
         <div className='Footer-Icons'>
-   
+   <h4>Follow Us</h4>
    <FaFacebookF className='Footer-Icon-1'/>
    
    <BsTwitter className='Footer-Icon-2'/>
