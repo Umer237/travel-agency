@@ -12,7 +12,14 @@ const Section2 = () => {
     <h2>Inspiration For Future Getaways</h2>
    </div>
    <div className='Section-2-Flex'>
+    <div>
   <img src={img1} alt="" />
+  <div className="overlay">
+    <div className="content">
+      <button>Explore More</button>
+    </div>
+  </div>
+  </div>
   <img src={img2} alt="" />
   <img src={img3} alt="" />
   <img src={img4} alt="" />
