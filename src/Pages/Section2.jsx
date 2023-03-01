@@ -17,12 +17,37 @@ const Section2 = () => {
   <div className="overlay">
     <div className="content">
       <button>Explore More</button>
+      <h5>Paris</h5>
     </div>
   </div>
   </div>
+  <div>
   <img src={img2} alt="" />
+  <div className="overlay">
+    <div className="content">
+      <button>Explore More</button>
+      <h5>Spain</h5>
+    </div>
+  </div>
+  </div>
+  <div>
   <img src={img3} alt="" />
+  <div className="overlay">
+    <div className="content">
+      <button>Explore More</button>
+      <h5>Portugal</h5>
+    </div>
+  </div>
+  </div>
+  <div>
   <img src={img4} alt="" />
+  <div className="overlay">
+    <div className="content">
+      <button>Explore More</button>
+      <h5>Pakistan</h5>
+    </div>
+  </div>
+  </div>
    </div>
    </>
   )
