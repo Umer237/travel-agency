@@ -6,7 +6,12 @@ import { Route, Switch } from "react-router-dom";
 function App() {
   return (
 <>
-
+<Header/>
+<Switch>
+  <Route exact path="/" component={Home}/>
+  <Redirect to='/'/>
+</Switch>
+<Footer/>
 </>
   );
 }
