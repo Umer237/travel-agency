@@ -15,14 +15,16 @@ const Footer = () => {
         <div>
         <h2>Home</h2>
         <p className='p-2'>About us</p>
-        <p className='p-2'>Destination</p>
-        <p className='p-2'>Blog</p>
-        <p className='p-2'>Contact</p>
+        <p className='p-2'>Destinatination</p>
+        <p className='p-2'>Community</p>
+        <p className='p-2'>Contact Us</p>
         </div>
         <div>
-            <h2>ADDRESS</h2>
-            <p className='p-2'>9157 Euclid Dr.</p>
-           <p className='p-2'>Rome, NY 13440</p>      
+            <h2>Legal</h2>
+            <p className='p-2'>Discover</p>
+           <p className='p-2'>Special deals</p>      
+           <p className='p-2'>Community</p>      
+           <p className='p-2'>Blog</p>      
         </div>
         <div className='Footer-Icons'>
    
