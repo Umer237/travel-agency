@@ -3,6 +3,7 @@ import './Footer.css'
 import { FaFacebookF } from "react-icons/fa";
 import {BsTwitter } from "react-icons/bs";
 import {GiGrapes } from "react-icons/gi";
+import {BsSnapchat} from "react-icons/bs";
 
 const Footer = () => {
   return (
@@ -29,8 +30,8 @@ const Footer = () => {
         <div className='Footer-Icons'>
    <h4>Follow Us</h4>
    <FaFacebookF className='Footer-Icon-1'/>
-   
    <BsTwitter className='Footer-Icon-2'/>
+   <BsSnapchat className='Footer-Icon-3'/>
    </div>
    </div>
    </>
