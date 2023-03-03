@@ -6,7 +6,7 @@ import Section2 from "./Section2";
 const Home = () => {
   return (
     <>
- <Banner1/>
+ <Banner/>
  <Section2/>
     </>
   );
