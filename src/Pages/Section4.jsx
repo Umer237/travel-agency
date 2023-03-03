@@ -3,13 +3,13 @@ import './Section4.css'
 
 import Logo1 from '../images/AirBnb.jpg'
 import Logo2 from '../images/Google.webp'
-import Logo3 from '../images/Microsoft.jpeg'
-import Logo4 from '../images/OYO.png'
+import Logo3 from '../images/Microsoft.jpg'
+import Logo4 from '../images/OYO.jpg'
 import Logo5 from '../images/Amazon.png'
-import Logo6 from '../images/FedEx.jpeg'
+import Logo6 from '../images/FedEx.jpg'
 import Logo7 from '../images/Bookmyshow.jpg'
 import Logo8 from '../images/WalMart.png'
-import Logo9 from '../images/OLA.png'
+import Logo9 from '../images/OLA.jpg'
 
 
 const Section4 = () => {
@@ -25,14 +25,12 @@ const Section4 = () => {
   <img src={Logo3} alt="" />
   <img src={Logo4} alt="" />
   <img src={Logo5} alt="" />
-  </div>
-  <div className='Row-2'>
   <img src={Logo6} alt="" />
   <img src={Logo7} alt="" />
   <img src={Logo8} alt="" />
   <img src={Logo9} alt="" />
   <button>Explore More</button>
-  </div>
+ </div>
  </div>
  </>
   )

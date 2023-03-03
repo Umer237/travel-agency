@@ -7,6 +7,10 @@
 .Section-4-Flex .Row-1 img{
     width: 150px;
 }
-.Section-4-Flex .Row-2 img{
-    width: 150px;
+.Section-4-Flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
 }
