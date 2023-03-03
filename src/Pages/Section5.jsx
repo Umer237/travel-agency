@@ -1,19 +1,19 @@
 import React from "react";
-import "./Section7.css";
+import "./Section5.css";
 import camera from "../images/camera.jpg";
 
-const Section7 = () => {
+const Section5 = () => {
   return (
     <>
-      <div className="section7-bg">
-          <div className="section7-text">
+      <div className="section5-bg">
+          <div className="section5-text">
             <h2>A Haven On The Earth<br></br>For You</h2>
           </div>
-          <div className="section7-flex">
-          <div className="section7-image">
+          <div className="section5-flex">
+          <div className="section5-image">
             <img src={camera} alt="" />
           </div>
-          <div className="section7-para">
+          <div className="section5-para">
             <p>
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
@@ -31,4 +31,4 @@ const Section7 = () => {
   );
 };
 
-export default Section7;
+export default Section5;

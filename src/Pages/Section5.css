@@ -1,20 +1,20 @@
-.section7-flex {
+.section5-flex {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8%;
 }
 
-.section7-bg {
+.section5-bg {
     background: #fefbf6;
     max-width: 1600px;
     margin: auto;
 }
 
-.section7-image img {
+.section5-image img {
     width: 500px;
 }
 
-.section7-para p {
+.section5-para p {
     max-width: 505px;
 }
