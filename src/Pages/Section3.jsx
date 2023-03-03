@@ -18,74 +18,80 @@ const Section3 = () => {
         </p>
       </div>
       <div className="Section-3-Flex">
-        <div>
+        <div className="Box-1">
           <img className="Img-1" src={Van} alt="" />
           <div className="Icon-Flex">
             <div className="Icon">
-              <HiOutlineCalendar />
+              <HiOutlineCalendar  className='Section-3-Icons'/>
               <h5>8 Days</h5>
             </div>
             <div className="Icon">
-              <IoLocationOutline />
+              <IoLocationOutline  className='Section-3-Icons'/>
               <h5>Spain</h5>
             </div>
             <div className="Icon">
-              <AiOutlineFlag />
+              <AiOutlineFlag  className='Section-3-Icons'/>
               <h5>8 citys</h5>
             </div>
           </div>
           <h2>Live Love Drink Travel, LLC - Dream Vacations</h2>
+          <div className="Star-Icons">
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
+          </div>
         </div>
-        <div>
+        <div className="Box-1">
           <img className="Img-2" src={Mountain} alt="" />
           <div className="Icon-Flex">
             <div className="Icon">
-              <HiOutlineCalendar />
+              <HiOutlineCalendar className='Section-3-Icons' />
               <h5>8 Days</h5>
             </div>
             <div className="Icon">
-              <IoLocationOutline />
+              <IoLocationOutline className='Section-3-Icons' />
               <h5>Spain</h5>
             </div>
             <div className="Icon">
-              <AiOutlineFlag />
+              <AiOutlineFlag className='Section-3-Icons' />
               <h5>8 citys</h5>
             </div>
           </div>
           <h2>Mountain Hiking Vacations At SwitzarLand</h2>
+          <div className="Star-Icons">
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
+          </div>
         </div>
-        <div>
+        <div className="Box-1">
           <img className="Img-3" src={Beach} alt="" />
           <div className="Icon-Flex">
             <div className="Icon">
-              <HiOutlineCalendar />
+              <HiOutlineCalendar className='Section-3-Icons' />
               <h5>8 Days</h5>
             </div>
             <div className="Icon">
-              <IoLocationOutline />
+              <IoLocationOutline className='Section-3-Icons' />
               <h5>Spain</h5>
             </div>
             <div className="Icon">
-              <AiOutlineFlag />
+              <AiOutlineFlag className='Section-3-Icons' />
               <h5>8 citys</h5>
             </div>
           </div>
           <h2>Enjoy Lovely Beach And Food At Bali, Indoneshia</h2>
+          <div className="Star-Icons">
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
           <AiFillStar className="Star-Icon" />
+          </div>
         </div>
       </div>
     </>

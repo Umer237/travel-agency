@@ -40,16 +40,32 @@
     gap: 5px;
 }
 .Icon-Flex{
-    justify-content: space-between;
+    justify-content: space-around;
     display: flex;
 }
 .Section-3-Flex h2{
     max-width: 420px;
     font-weight: 600;
     padding-top: 10px;
+    padding: 10px;
 }
 .Star-Icon{
     color: orange;
     font-size: 18px;
     padding-top: 10px;
+}
+.Box-1:hover{
+  box-shadow: 10px 5px 40px rgb(207, 205, 205);
+  padding: 1px;
+  border-radius: 30px 30px 30px 30px;
+}
+.Star-Icons{
+  padding-left: 12px;
+  padding-bottom: 20px;
+}
+.Section-3-Icons{
+  color: rgb(130, 132, 133);
+}
+.Section-3-Flex h5{
+  color: rgb(130, 132, 133);
 }
