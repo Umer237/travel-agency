@@ -1,8 +1,15 @@
 .section5-flex {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 8%;
+}
+
+.section5-text h2 {
+    padding: 3% 0;
+    max-width: 1132px;
+    margin: auto;
 }
 
 .section5-bg {
@@ -13,6 +20,19 @@
 
 .section5-image img {
     width: 500px;
+    border-radius: 4%;
+}
+
+.section5-img {
+    position: absolute;
+    transform: translateY(-377px);
+    left: 53%;
+}
+
+.section5-img img {
+    width: 148px;
+    height: 114px;
+    border-radius: 14%;
 }
 
 .section5-para p {
