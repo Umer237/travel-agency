@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     padding-bottom: 30px;
 }
 
@@ -56,6 +57,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 100px;
     background: #fff;
     box-shadow: 10px 10px 5px 5px #f7f7f7;
@@ -111,4 +113,10 @@
 .search-btn {
     padding-right: 10px;
     font-size: 20px;
+}
+
+@media (max-width:800px) {
+    .headerbanner2 {
+        height: auto;
+    }
 }
