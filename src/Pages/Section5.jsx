@@ -14,31 +14,70 @@ const Section5 = () => {
   </div>
   <div className="Section-5-Flex">
     <div>
-<img src={Traveller} alt="" />
+    <div className="Section5-hover">
+          <img className='Img-1' src={Traveller} alt="" />
+          <div className="overlay-2">
+            <div className="content-2">
+              <button>Explore More</button>
+            </div>
+          </div>
+        </div>
 <h3>inspiration</h3>
 <h2>Travel Tips & Inspiration</h2>
+<div className='Icons-Div' >
+<div className='Views-Comments'>
 <TbMessages/>
-<h5>250</h5>
+<h5>150</h5>
+</div>
+<div className='Views-Comments'>
 <AiOutlineEye/>
-<h5>12k+ view</h5>
+<h5>9k+ view</h5>
+</div>
+</div>
 </div>
 <div>
-<img src={Laptop} alt="" />
-<h3>inspiration</h3>
-<h2>Travel Tips & Inspiration</h2>
+<div className="Section5-hover">
+          <img className='Img-2' src={Laptop} alt="" />
+          <div className="overlay-2">
+            <div className="content-2">
+              <button>Explore More</button>
+            </div>
+          </div>
+        </div>
+<h3>Travel</h3>
+<h2>Travel Marketing</h2>
+<div className='Icons-Div' >
+<div className='Views-Comments'>
 <TbMessages/>
-<h5>250</h5>
+<h5>150</h5>
+</div>
+<div className='Views-Comments'>
 <AiOutlineEye/>
-<h5>12k+ view</h5>
+<h5>9k+ view</h5>
+</div>
+</div>
 </div>
   <div>
-  <img src={Mirror} alt="" />
-<h3>inspiration</h3>
-<h2>Travel Tips & Inspiration</h2>
+  <div className="Section5-hover">
+          <img className='Img-3' src={Mirror} alt="" />
+          <div className="overlay-2">
+            <div className="content-2">
+              <button>Explore More</button>
+            </div>
+          </div>
+        </div>
+<h3>Vaccation</h3>
+<h2>Effective Vaccation Trip</h2>
+<div className='Icons-Div' >
+<div className='Views-Comments'>
 <TbMessages/>
-<h5>250</h5>
+<h5>150</h5>
+</div>
+<div className='Views-Comments'>
 <AiOutlineEye/>
-<h5>12k+ view</h5>
+<h5>9k+ view</h5>
+</div>
+</div>
   </div>
   </div>
   </>

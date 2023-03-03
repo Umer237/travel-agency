@@ -1,14 +1,16 @@
 import React from "react";
-import Banner1 from "./Banner1";
+import Banner from "./Banner";
 import Section2 from "./Section2";
+import Section3 from "./Section3";
 import Section5 from "./Section5";
 
 
 const Home = () => {
   return (
     <>
- <Banner1/>
+ <Banner/>
  <Section2/>
+ <Section3/>
  <Section5/>
     </>
   );
