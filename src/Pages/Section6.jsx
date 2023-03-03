@@ -1,5 +1,5 @@
 import React from "react";
-import "./Section5.css";
+import "./Section6.css";
 import Traveller from "../images/Traveler.jpg";
 import Laptop from "../images/Laptop.jpg";
 import Mirror from "../images/Mirror.jpg";
