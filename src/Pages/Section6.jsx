@@ -14,7 +14,7 @@ const Section6 = () => {
       </div>
       <div className="Section-6-Flex">
         <div className="Box-1-Hover">
-          <div className="Section5-hover">
+          <div className="Section6-hover">
             <img className="Img-1" src={Traveller} alt="" />
             <div className="overlay-2">
               <div className="content-2">
