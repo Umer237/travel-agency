@@ -18,6 +18,13 @@
     margin: auto;
 }
 
+
+/* .section5-background {
+    background: url('../images/golbe.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
 .section5-image img {
     width: 500px;
     border-radius: 4%;
