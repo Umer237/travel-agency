@@ -1,0 +1,10 @@
+.Section-5-Top-Text{
+    text-align: center;
+}
+.Section-5-Flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Section-5-Flex img{
+    width: 500px;
+}
