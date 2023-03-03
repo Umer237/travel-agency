@@ -1,0 +1,53 @@
+.section3-bg {
+    background: #f5f9fc;
+    /* padding: 120px 120px; */
+    max-width: 1400px;
+    margin: auto;
+}
+
+.section3-margin {
+    max-width: 1234px;
+    margin: auto;
+}
+
+.section3-text p {
+    max-width: 605px;
+}
+
+.section3-icon-text {
+    display: flex;
+    align-items: center;
+}
+
+.section3-img img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50px 50px 0 0;
+}
+
+.section3iconicon {
+    font-size: 20px;
+    color: gray;
+}
+
+.section3-icon h5 {
+    font-size: 20px;
+    font-weight: 400;
+    color: gray;
+}
+
+.section3-icon-text {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.love h5 {
+    font-size: 25px;
+    font-weight: 500;
+    max-width: 330px;
+}
+
+.icon-stars {
+    color: #fdd355;
+}

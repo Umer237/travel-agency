@@ -2,6 +2,8 @@ import React from "react";
 import "../Pages/Banner1.css";
 import { BsFillCaretRightFill } from "react-icons/bs";
 import bannerimg from "../images/BannerTravel.png";
+import { BsSearch } from "react-icons/bs";
+import { RiArrowDownSLine } from "react-icons/ri";
 
 const Banner1 = () => {
   return (
@@ -31,6 +33,42 @@ const Banner1 = () => {
         </div>
         <div className="banner1-image">
           <img src={bannerimg} alt="" />
+        </div>
+      </div>
+      <div className="headerbanner2">
+        <div className="headerbanner2-text">
+          <div className="banner-flex-icon">
+            <h5>Location</h5>
+            <div>
+              <RiArrowDownSLine className="date-icon" />
+            </div>
+          </div>
+          <h6>Where are you going</h6>
+        </div>
+        <div className="headerbanner2-text">
+          <div className="banner-flex-icon">
+            <h5>Date</h5>
+            <div>
+              <RiArrowDownSLine className="date-icon" />
+            </div>
+          </div>
+          <h6>When you will go</h6>
+        </div>
+        <div className="headerbanner2-text">
+          <div className="banner-flex-icon">
+            <h5>People</h5>
+            <div>
+              <RiArrowDownSLine className="date-icon" />
+            </div>
+          </div>
+          <h6>Sleect the place</h6>
+        </div>
+        <div className="banner2-search-flex">
+          <div className="headerbanner2-sreach">
+            <h5>
+              <BsSearch className="search-btn" /> Sreach
+            </h5>
+          </div>
         </div>
       </div>
     </>

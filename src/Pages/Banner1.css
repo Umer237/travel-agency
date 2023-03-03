@@ -13,8 +13,6 @@
 .banner1-text p {
     max-width: 460px;
     padding-top: 20px;
-    font-size: 17px;
-    font-weight: 400;
 }
 
 .banner1-btn button {
@@ -52,4 +50,65 @@
 
 .banner1-image img {
     width: 410px;
+}
+
+.headerbanner2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    background: #fff;
+    box-shadow: 10px 10px 5px 5px #f7f7f7;
+    max-width: 1100px;
+    margin: auto;
+    height: 110px;
+    border-radius: 120px;
+    margin-bottom: 50px;
+}
+
+.headerbanner2-text h5 {
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 8px;
+}
+
+.headerbanner2-text h6 {
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.headerbanner2-sreach h5 {
+    font-size: 17px;
+    font-weight: 400;
+    text-decoration: none;
+    background: #ff7524;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    text-align: center;
+    /* width: 150px;
+    height: 50px; */
+    border-radius: 120px;
+    cursor: pointer;
+}
+
+.date-icon {
+    font-size: 26px;
+    margin-left: 7px;
+}
+
+.banner-flex-icon {
+    display: flex;
+    align-items: center;
+}
+
+
+/* .banner2-search-flex {
+    display: flex;
+    align-items: center;
+} */
+
+.search-btn {
+    padding-right: 10px;
+    font-size: 20px;
 }
