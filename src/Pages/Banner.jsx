@@ -1,5 +1,5 @@
 import React from "react";
-import "../Pages/Banner1.css";
+import "../Pages/Banner.css";
 import { BsFillCaretRightFill } from "react-icons/bs";
 import bannerimg from "../images/BannerTravel.png";
 import { BsSearch } from "react-icons/bs";
