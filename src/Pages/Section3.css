@@ -131,18 +131,18 @@
 }
 @media only screen and (max-width: 320px) {
     .Section-3-Flex .Img-1{
-        max-width: 300px;
+        width:auto ;
         height: 300px;
     }
     .Section-3-Flex .Img-2{
-        max-width: 300px;
+        width:auto;
         height: 300px;
     }
     .Section-3-Flex .Img-3{
-        max-width: 300px;
+    width:  300px;
         height: 300px;
     }
     .Box-1{
-        max-width: 300px;
+        width: 290px;
     }
 }
