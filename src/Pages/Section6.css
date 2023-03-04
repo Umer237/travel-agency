@@ -1,7 +1,7 @@
 .Section-6-Top-Text {
     text-align: center;
     font-size: 25px;
-    padding-top: 100px;
+    padding-top: 7%;
 }
 
 .Section-6-Top-Text h2 {
@@ -15,6 +15,7 @@
     flex-wrap: wrap;
     padding-top: 50px;
     gap: 40px;
+    padding-bottom: 10%;
 }
 
 .Section-6-Flex .Img-1 {

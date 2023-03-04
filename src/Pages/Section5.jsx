@@ -26,6 +26,7 @@ const Section5 = () => {
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration.
             </p>
+            <button className="Section-5-Btn">Explore More</button>
           </div>
           <div className="section5-img">
           <img src={sunrise} alt="" />
