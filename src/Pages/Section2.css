@@ -23,18 +23,6 @@
     position: relative;
     height: 500px;
 }
-
-.Section2-hover button {
-    text-decoration: none;
-    background: #ff7524;
-    color: #fff;
-    padding: 9px 25px;
-    border: none;
-    font-size: 13px;
-    border-radius: 120px;
-    cursor: pointer;
-}
-
 .content h5 {
     position: absolute;
     bottom: 19px;

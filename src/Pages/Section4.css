@@ -15,13 +15,3 @@
     margin: auto;
     padding: 80px;
 }
-.Section-4-Flex button {
-    text-decoration: none;
-    background: #ff7524;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    font-size: 18px;
-    border-radius: 120px;
-    cursor: pointer;
-}
