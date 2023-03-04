@@ -21,13 +21,13 @@
     color: #ff7524;
 }
 
-.navbar ul li {
+.NavBar ul li {
     display: inline;
     list-style-type: none;
     padding: 20px;
 }
 
-.navbar ul li a {
+.NavBar ul li a {
     text-decoration: none;
     color: #000;
     font-size: 18px;
@@ -42,4 +42,72 @@
     border: none;
     font-size: 18px;
     border-radius: 120px;
+    cursor: pointer;
+}
+.Mobile-Menu-icon{
+    display: none;
+}
+@media only screen and (max-width: 320px) {
+    .navbar{
+        display: none;
+    }
+    .header-btn button{
+        display: none;
+    }
+    .logo h5 {
+        font-size: 25px;
+        color: #ff7524;
+    }
+    .logo {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+    .Mobile-Menu-icon{
+        font-size: 25px;
+        color: #ff7524;
+        
+      }
+}
+@media only screen and (max-width: 768px) {
+    .nav-links-mobile{
+        position: absolute;
+        display: block;
+        list-style: none;
+        box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
+        left: 0;
+        top: 6.5%;
+        transition: all 0.5s ease-in-out;
+        width: 100%;
+        background-color: #fff;
+        color:#ff7524;
+    } 
+    .Links{
+        display: none;
+    }
+    .Mobile-Menu-icon{
+        position: absolute;
+        display: block;
+        right: 20px;
+        color: #ff7524;
+    }
+    .NavBar ul li{
+        padding: 32px;
+        width: 100%;
+        transition: all 0.5s ease-in-out;
+        text-align: center;
+        display: flex;
+        color: #ff7524;
+    }
+    .NavBar ul li a{
+        color:#ff7524;
+    }
+    .NavBar{
+        background: #fff;
+      }
+      button {
+        border: none;
+        background: none;
+        font-size: 20px;
+      }
 }

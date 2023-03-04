@@ -4,12 +4,14 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 8%;
+
 }
 
 .section5-text h2 {
     padding: 3% 0;
     max-width: 1132px;
     margin: auto;
+    padding-top: 150px;
 }
 
 .section5-bg {
@@ -44,4 +46,15 @@
 
 .section5-para p {
     max-width: 505px;
+}
+.Section-5-Btn  {
+    text-decoration: none;
+    background: #ff7524;
+    color: #fff;
+    padding: 9px 25px;
+    border: none;
+    font-size: 13px;
+    margin-top: 40px;
+    border-radius: 120px;
+    cursor: pointer;
 }
