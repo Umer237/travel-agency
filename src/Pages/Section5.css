@@ -47,16 +47,8 @@
 .section5-para p {
     max-width: 505px;
 }
-.Section-5-Btn  {
-    text-decoration: none;
-    background: #ff7524;
-    color: #fff;
-    padding: 9px 25px;
-    border: none;
-    font-size: 13px;
-    margin-top: 40px;
-    border-radius: 120px;
-    cursor: pointer;
+button{
+    margin-top: 60px;
 }
 @media only screen and (max-width: 320px) {
     .section5-text h2{
