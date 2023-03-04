@@ -1,0 +1,65 @@
+.Section-7-Top-Text h2{
+    max-width:500px;
+    padding-left: 180px;
+    font-weight: 600;
+}
+.Section-7-Flex img{
+    width: 50px;
+}
+.Section-7-Flex .Image-1{
+    border-radius: 100%;
+}
+.Section-7-Flex .Image-2{
+    border-radius: 100%;
+}
+.Section-1{
+    box-shadow: 10px 5px 40px rgb(207, 205, 205);
+    padding: 40px;
+    border-radius: 20px;
+    height: 300px;
+}
+.Section-2{
+    box-shadow: 10px 5px 40px rgb(207, 205, 205);
+    padding: 40px;
+    border-radius: 20px;
+    height: 300px;
+}
+.Section-2 h2{
+    font-weight: 400;
+}
+.Section-1 h2{
+    font-weight: 400;
+}
+.Section-1 h3{
+    font-weight: 600;
+}
+.Section-2 h3{
+    font-weight: 600;
+}
+.Person-1{
+    border-radius: 100%;
+}
+.Person-2{
+    border-radius: 100%;
+}
+.Section-7-Flex{
+    display: flex;
+   gap: 30px;
+   justify-content:center;
+   padding-bottom: 200px;
+   flex-wrap: wrap;
+}
+.Section-7-Flex p{
+    max-width: 410px;
+}
+.Circle-Image{
+padding-right: 180px;
+padding-top: 180px;
+}
+.Section-1-Text{
+    padding-top: 20px;
+}
+
+.Section-2-Text{
+    padding-top: 20px;
+}
