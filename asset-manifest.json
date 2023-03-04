@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/travel-agency/static/css/main.fe537b6c.css",
+    "main.js": "/travel-agency/static/js/main.23704bd1.js",
+    "static/js/787.8d9b3c30.chunk.js": "/travel-agency/static/js/787.8d9b3c30.chunk.js",
+    "static/media/girl.jpg": "/travel-agency/static/media/girl.1e06e4090a00a9ec742e.jpg",
+    "static/media/Beach.jpg": "/travel-agency/static/media/Beach.7ddb976606a84e421b7c.jpg",
+    "static/media/man.jpg": "/travel-agency/static/media/man.17930df72817654bd86d.jpg",
+    "static/media/camera.jpg": "/travel-agency/static/media/camera.8f0efaaae865526d1bca.jpg",
+    "static/media/Spain.jpeg": "/travel-agency/static/media/Spain.f6562a59cda802bb7cf1.jpeg",
+    "static/media/Hazrat-Ali-Tomb.jpg": "/travel-agency/static/media/Hazrat-Ali-Tomb.a37b41ecc128d8e9a7c7.jpg",
+    "static/media/Mountain.jpg": "/travel-agency/static/media/Mountain.9f6436b559539736bf91.jpg",
+    "static/media/Paris.jpeg": "/travel-agency/static/media/Paris.2924bf58ad96ccb1ae32.jpeg",
+    "static/media/Traveler.jpg": "/travel-agency/static/media/Traveler.d27e34cc227a3250ff3c.jpg",
+    "static/media/Portugal.jpeg": "/travel-agency/static/media/Portugal.e5f3b1708db8b9f4d58e.jpeg",
+    "static/media/BannerTravel.png": "/travel-agency/static/media/BannerTravel.8a1d349d89c16996d8bd.png",
+    "static/media/Amazon.png": "/travel-agency/static/media/Amazon.81fa3d03e0710086f4ca.png",
+    "static/media/Laptop.jpg": "/travel-agency/static/media/Laptop.40a7051db197bc453a25.jpg",
+    "static/media/sunrise.jpg": "/travel-agency/static/media/sunrise.2ad2d3fd93bccc99cc83.jpg",
+    "static/media/OLA.jpg": "/travel-agency/static/media/OLA.5a2f0a033e6279c1f65a.jpg",
+    "static/media/Microsoft.jpg": "/travel-agency/static/media/Microsoft.24cfd160ea320b160ccb.jpg",
+    "static/media/Van.jpg": "/travel-agency/static/media/Van.54cf21922a06a1368c79.jpg",
+    "static/media/Google.webp": "/travel-agency/static/media/Google.7605f36b309738bd21e0.webp",
+    "static/media/AirBnb.jpg": "/travel-agency/static/media/AirBnb.22a6a7d23e5d6d11f568.jpg",
+    "static/media/Mirror.jpg": "/travel-agency/static/media/Mirror.2225f8a9511d7584f581.jpg",
+    "static/media/Bookmyshow.jpg": "/travel-agency/static/media/Bookmyshow.affd79ebebd8f07ef0b1.jpg",
+    "static/media/FedEx.jpg": "/travel-agency/static/media/FedEx.844a7398912b00abed4c.jpg",
+    "static/media/WalMart.png": "/travel-agency/static/media/WalMart.fd795ca32e200c2207f0.png",
+    "static/media/OYO.jpg": "/travel-agency/static/media/OYO.2855d89dc304317cfb4c.jpg",
+    "index.html": "/travel-agency/index.html",
+    "main.fe537b6c.css.map": "/travel-agency/static/css/main.fe537b6c.css.map",
+    "main.23704bd1.js.map": "/travel-agency/static/js/main.23704bd1.js.map",
+    "787.8d9b3c30.chunk.js.map": "/travel-agency/static/js/787.8d9b3c30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe537b6c.css",
+    "static/js/main.23704bd1.js"
+  ]
+}
