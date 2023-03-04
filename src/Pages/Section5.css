@@ -58,3 +58,22 @@
     border-radius: 120px;
     cursor: pointer;
 }
+@media only screen and (max-width: 320px) {
+    .section5-text h2{
+        text-align: center;
+        padding-top: 50px;
+    }
+    .section5-image img{
+        max-width: 300px;
+    }
+    .section5-para p{
+      padding-left: 12px;
+        font-size: 12px;
+    }
+    .section5-img img{
+        display: none;
+    }
+    .Section-5-Btn{
+     margin-left: 10px;
+    }
+}
