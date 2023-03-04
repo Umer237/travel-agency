@@ -39,6 +39,8 @@
     position: absolute;
     bottom: 19px;
     left: 22px;
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .overlay {

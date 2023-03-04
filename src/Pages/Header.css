@@ -42,4 +42,22 @@
     border: none;
     font-size: 18px;
     border-radius: 120px;
+    cursor: pointer;
+}
+@media only screen and (max-width: 320px) {
+    .navbar{
+        display: none;
+    }
+    .header-btn button{
+        display: none;
+    }
+    .logo h5 {
+        font-size: 25px;
+        color: #ff7524;
+    }
+    .logo {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
 }
