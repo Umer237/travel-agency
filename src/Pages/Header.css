@@ -44,14 +44,16 @@
     border-radius: 120px;
     cursor: pointer;
 }
-.Mobile-Menu-icon{
+
+.Mobile-Menu-icon {
     display: none;
 }
+
 @media only screen and (max-width: 320px) {
-    .navbar{
+    .navbar {
         display: none;
     }
-    .header-btn button{
+    .header-btn button {
         display: none;
     }
     .logo h5 {
@@ -63,35 +65,36 @@
         align-items: center;
         gap: 5px;
     }
-    .Mobile-Menu-icon{
+    .Mobile-Menu-icon {
         font-size: 25px;
         color: #ff7524;
-        
-      }
+    }
 }
+
 @media only screen and (max-width: 768px) {
-    .nav-links-mobile{
+    .nav-links-mobile {
         position: absolute;
         display: block;
         list-style: none;
         box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
         left: 0;
-        top: 6.5%;
+        top: 7.5%;
         transition: all 0.5s ease-in-out;
         width: 100%;
         background-color: #fff;
-        color:#ff7524;
-    } 
-    .Links{
+        color: #ff7524;
+    }
+    .Links {
         display: none;
     }
-    .Mobile-Menu-icon{
+    .Mobile-Menu-icon {
         position: absolute;
         display: block;
         right: 20px;
         color: #ff7524;
+        cursor: pointer;
     }
-    .NavBar ul li{
+    .NavBar ul li {
         padding: 32px;
         width: 100%;
         transition: all 0.5s ease-in-out;
@@ -99,15 +102,15 @@
         display: flex;
         color: #ff7524;
     }
-    .NavBar ul li a{
-        color:#ff7524;
+    .NavBar ul li a {
+        color: #ff7524;
     }
-    .NavBar{
+    .NavBar {
         background: #fff;
-      }
-      button {
+    }
+    button {
         border: none;
         background: none;
         font-size: 20px;
-      }
+    }
 }
