@@ -63,3 +63,26 @@ padding-top: 180px;
 .Section-2-Text{
     padding-top: 20px;
 }
+@media only screen and (max-width: 320px) {
+    .Section-7-Top-Text h2{
+        text-align: center;
+        padding: 0;
+    }
+    .Circle-Image{
+       display: none;
+    }
+    .Section-1{
+        box-shadow: 10px 5px 40px rgb(207, 205, 205);
+        padding: 30px;
+        border-radius: 20px;
+        height: auto;
+        margin: 10px 10px 10px 10px ;
+    }
+    .Section-2{
+        box-shadow: 10px 5px 40px rgb(207, 205, 205);
+        padding: 30px;
+        border-radius: 20px;
+        height:auto;
+        margin: 10px 10px 10px 10px ;
+    }
+}
