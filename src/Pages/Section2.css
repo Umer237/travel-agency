@@ -69,3 +69,23 @@
 .overlay:hover {
     opacity: 1;
 }
+@media only screen and (max-width: 320px) {
+    .Section-2-Top-Text {
+        text-align: center;
+        padding-top: 20px;
+        font-size: 20px;
+    }
+    .Section-2-Top-Text h2 {
+        font-size: 25px;
+
+    }
+    .Section-2-Flex {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+}
