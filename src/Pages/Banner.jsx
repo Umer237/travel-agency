@@ -66,7 +66,7 @@ const Banner1 = () => {
         <div className="banner2-search-flex">
           <div className="headerbanner2-sreach">
             <h5>
-              <BsSearch className="search-btn" /> Sreach
+              <BsSearch className="search-btn" /> Search
             </h5>
           </div>
         </div>
