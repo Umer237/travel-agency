@@ -64,7 +64,6 @@
 
 .Section6-hover {
     position: relative;
-    height: 350px;
 }
 .Icons-Div {
     display: flex;
@@ -78,6 +77,16 @@
     color: rgb(130, 132, 133);
     padding-left: 20px;
     padding-bottom: 10px;
+}
+.content-2 button{
+    text-decoration: none;
+    background: #ff7524;
+    color: #fff;
+    padding: 9px 25px;
+    border: none;
+    font-size: 13px;
+    border-radius: 120px;
+    cursor: pointer;
 }
 
 .Views {
@@ -117,17 +126,20 @@
         font-weight: 600;
     }
     .Section-6-Flex .Img-1 {
-        max-width: 350px;
+        max-width: 310px;
         border-radius: 20px 20px 0 0;
     }
     
     .Section-6-Flex .Img-2 {
-        max-width: 500px;
+        max-width: 310px;
         border-radius: 20px 20px 0 0;
     }
     
     .Section-6-Flex .Img-3 {
-        max-width: 450px;
+        max-width: 310px;
         border-radius: 20px 20px 0 0;
+    }
+    .Box-1-Hover{
+        width: 310px;
     }
 }

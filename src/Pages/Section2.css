@@ -78,4 +78,14 @@
         padding-top: 20px;
         padding-bottom: 30px;
     }
+    .content button{
+        text-decoration: none;
+        background: #ff7524;
+        color: #fff;
+        padding: 9px 25px;
+        border: none;
+        font-size: 13px;
+        border-radius: 120px;
+        cursor: pointer;
+    }
 }

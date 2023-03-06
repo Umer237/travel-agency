@@ -68,7 +68,7 @@
         list-style: none;
         box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
         left: 0;
-        top: 7.5%;
+        top: 6.9%;
         transition: all 0.5s ease-in-out;
         width: 100%;
         background-color: #fff;
@@ -80,7 +80,7 @@
     .Mobile-Menu-icon {
         position: absolute;
         display: block;
-        right: 20px;
+        right: 9px;
         color: #ff7524;
         cursor: pointer;
     }

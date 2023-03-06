@@ -47,7 +47,7 @@
 .section5-para p {
     max-width: 505px;
 }
-button{
+.section5-para button{
     margin-top: 60px;
 }
 @media only screen and (max-width: 320px) {
