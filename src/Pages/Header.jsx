@@ -32,10 +32,12 @@ const Header = () => {
         <div className="header-btn">
           <button>Contact Us</button>
         </div>
+        <div className="burger-btn">
         <button className='Mobile-Menu-icon' onClick={() => setMobile(!Mobile)}>
       {Mobile? <ImCross/> : <HiBars3/> }
       
     </button>
+    </div>
       </div>
     </>
   );
